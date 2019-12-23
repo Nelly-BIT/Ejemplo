@@ -5,3 +5,5 @@ var palabra= new RegExp("^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(
 console.log(palabra.test(frase));
 
 console.log("dasdasds");
+console.log("dasddssdffdsasds");
+console.log("dasddssdffdsasds");
